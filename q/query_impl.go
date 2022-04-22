@@ -1,8 +1,8 @@
 package q
 
 import (
-	"github.com/ije/postdb/post"
-	"github.com/ije/postdb/util"
+	"github.com/jimisaacs/postdb/post"
+	"github.com/jimisaacs/postdb/util"
 )
 
 type idQuery string

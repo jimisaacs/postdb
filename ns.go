@@ -1,8 +1,8 @@
 package postdb
 
 import (
-	"github.com/ije/postdb/post"
-	"github.com/ije/postdb/q"
+	"github.com/jimisaacs/postdb/post"
+	"github.com/jimisaacs/postdb/q"
 )
 
 // A NS for the DB

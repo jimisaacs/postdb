@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ije/postdb/q"
+	"github.com/jimisaacs/postdb/q"
 )
 
 func TestDB(t *testing.T) {

@@ -1,6 +1,6 @@
 package q
 
-import "github.com/ije/postdb/post"
+import "github.com/jimisaacs/postdb/post"
 
 // Resolver to save query resolves
 type Resolver struct {
